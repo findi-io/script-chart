@@ -1,0 +1,9 @@
+scripts: []
+#  - content: YXBpVmVyc2lvbjogdjEKa2luZDogQ29uZmlnTWFwCm1ldGFkYXRhOgogIG5hbWU6IGJhc2U2NApkYXRhOgogIG15c3FsLmpzb246IGhlbGxv
+#  - |
+#    apiVersion: v1
+#    kind: ConfigMap
+#    metadata:
+#      name: raw-text
+#    data:
+#      mysql.json: hello
